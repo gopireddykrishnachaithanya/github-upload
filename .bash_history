@@ -1,0 +1,8 @@
+git config --global user.email "gopireddykc2001@gmail.com"
+git config --global user.name "Gopireddy28"
+git config --global user.name "yourgithubid"
+git config --global user.name "gopireddykrishnachaithanya"
+git config --global user.email"gopireddykrishnachaithanya2001@gmail.com"
+[200~ git config --global user.name "gopireddy28"
+git config --global user.name "Gopireddy28"
+git config --global user.email "gopireddykc2001@gmail.com"
